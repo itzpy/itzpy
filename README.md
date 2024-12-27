@@ -27,8 +27,8 @@ skills = {
   - 👥 Multi-role user system
 
 ### 📫 Connect With Me
-- LinkedIn: [Papa Yaw Badu](Your-LinkedIn-URL)
-- Email: your.email@example.com
+- LinkedIn: [Papa Yaw Badu](linkedin.com/in/papa-yaw-badu-3a2390263)
+- Email: papa.badu@ashesi.edu.gh
 
 ### ⚡ Fun Fact
 "I believe technology can transform healthcare delivery in Africa, one line of code at a time!"
