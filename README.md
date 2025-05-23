@@ -53,7 +53,7 @@ const skills = {
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vue-dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itzpy&show_icons=true&theme=vue-dark)
 
 ---
 
