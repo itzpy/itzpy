@@ -5,7 +5,7 @@
 
 ---
 ## 🚀 About Me
-🎓 **3rd-year Computer Science student** at Ashesi University  
+🎓 **Final Year Computer Science student** at Ashesi University  
 💡 **Healthcare Technology Enthusiast** passionate about transforming African healthcare  
 🔧 **Full-Stack Developer** focused on creating meaningful digital solutions  
 ---
